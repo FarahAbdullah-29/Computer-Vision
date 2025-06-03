@@ -1,6 +1,4 @@
 # Farah Abdullah
-# CS331
-
 
 import tensorflow as tf
 
